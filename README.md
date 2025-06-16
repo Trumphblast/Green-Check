@@ -11,4 +11,7 @@
 - Tech Stack: `Python`, `PyTorch`, `NumPy`, `Matplotlib` , `Seaborn`, `Pandas`, `Sckit-learn`, `os` 
 - Tools: `Google Colab`, `Kaggle`
 
+**Dataset**
+#### Download link
+-- https://datasets.activeloop.ai/docs/ml/datasets/plantvillage-dataset/
 ---
