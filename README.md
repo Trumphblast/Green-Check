@@ -12,6 +12,6 @@
 - Tools: `Google Colab`, `Kaggle`
 
 **Dataset**
-#### Download link
--- https://datasets.activeloop.ai/docs/ml/datasets/plantvillage-dataset/
+**Download link**
+- https://datasets.activeloop.ai/docs/ml/datasets/plantvillage-dataset/
 ---
